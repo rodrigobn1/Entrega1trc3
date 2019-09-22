@@ -1,0 +1,21 @@
+{
+  "name": "Entrega1trc3-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rodrigobn1/trc3-entrega1.git",
+  "author": "Rodrigo <rodrigo_bn95@hotmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js "
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "mongoose-auto-increment": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2",
+    "sucrase": "^3.10.1"
+  }
+}
