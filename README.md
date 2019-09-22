@@ -1,6 +1,6 @@
-# TRC3 - API
+# Entrega1trc3-api
 
-### See it in action
+### Projeto de API com rotas para um banco de dados de disciplinas
 
 \$ git clone https://github.com/rodrigobn1/Entrega1trc3
 
