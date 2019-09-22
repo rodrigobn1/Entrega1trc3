@@ -2,7 +2,7 @@
 
 ### See it in action
 
-\$ git clone https://github.com/rodrigobn1/trc3-entrega1
+\$ git clone https://github.com/rodrigobn1/Entrega1trc3
 
 \$ yarn
 
